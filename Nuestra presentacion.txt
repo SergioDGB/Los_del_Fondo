@@ -1,0 +1,30 @@
+===============================
+-----------LOS DEL FONDO--------
+===============================
+1. Sergio Gracia 
+2. Jorge Baena
+3. Yeison Garcia
+
+================================================
+--------------EVALUACION SDGB-------------------
+================================================
+Nombre           : Sergio David Gracia Bejarano
+Me gusta         : Me gusta jugar futbol,escuchar musica y ver peliculas en cine.
+Como me describo?: Soy una persona callada que ama escuchar musica en sus audifonos.
+Ama al profe?    : Obvio.
+
+================================================
+--------------EVALUACION JB-------------------
+================================================
+Nombre           : Jorge Baena
+Me gusta         : programar , jugar videojuegos , hacer videojuegos,hackear.
+Como me describo?: persona muy social , responsable, perezoso, tranquilo ,simpatico. 
+Ama al profe?    : Yes.
+
+================================================
+--------------EVALUACION YG-------------------
+================================================
+Nombre           : Yeison Garcia
+Me gusta         : Me gusta jugar videojuegos, jugar futbol,montar bicicleta ,ver television,comer.
+Como me describo?: Soy una persona muy social,responsable,tranquilo.
+Ama al profe?    : Eso se sabe.
